@@ -1,0 +1,8 @@
+<odoo>
+    <!-- Library app study App Menu te
+    name="Library_Study" : Ten nay hien ra luc click vao nut 3 gach no la ten cua App tren menu Item
+    id="menu_library_study" an XML ID and is used to uniquely identify each data element,
+    The <menuitem> element is an instruction to write a record on the ir.ui.menu model, where Odoo menu items are stored.
+    -->
+    <menuitem id="menu_library_study" name="Library_Study" />
+</odoo>
